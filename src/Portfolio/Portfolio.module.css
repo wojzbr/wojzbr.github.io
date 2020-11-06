@@ -1,0 +1,15 @@
+.background {
+  width: 100%;
+  height: 100vh;
+  background: peachpuff;
+  scroll-snap-align: start;
+}
+
+.text {
+  width: 700px;
+  font-size: 25px;
+  color: black;
+  position: relative;
+  top: 40%;
+  left: 12%;
+}

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  position: fixed;
+}
+
+.scroll {
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  scroll-behavior: smooth;
+  overflow: auto;
+  scroll-snap-type: y mandatory;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent;
+}

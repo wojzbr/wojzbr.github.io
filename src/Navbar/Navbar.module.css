@@ -1,0 +1,18 @@
+.navbar {
+  position: fixed;
+  display: flex;
+  width: 90%;
+  height: 50px;
+  left: 50%;
+  transform: translate(-50%, 0);
+  border-bottom: 1px solid black;
+  justify-content: space-between;
+  align-items: flex-end;
+  background: peachpuff;
+  z-index: 100000;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
