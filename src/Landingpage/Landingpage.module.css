@@ -12,21 +12,21 @@ img {
 }
 
 .photo {
-  width: 310px;
+  width: 23.5vw;
   position: absolute;
-  top: 15%;
-  right: 15%;
+  top: 9vw;
+  right: 13%;
   z-index: 5;
 }
 
 .heading {
-  font-size: 22vh;
+  font-size: 11vw;
   font-weight: 700;
   text-transform: uppercase;
   text-align: end;
   position: absolute;
-  top: 10%;
-  left: 12%;
+  top: 5.8vw;
+  left: 10%;
   z-index: 10;
   color: rgb(209, 128, 61);
 }
