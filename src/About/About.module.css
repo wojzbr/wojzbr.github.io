@@ -5,13 +5,14 @@
   scroll-snap-align: start;
 }
 
-h1 {
+.about {
   position: relative;
   width: 200px;
   left: 60%;
   top: 20%;
   color: rgb(209, 128, 61);
   font-weight: 700;
+  font-size: 3rem;
 }
 
 .text {

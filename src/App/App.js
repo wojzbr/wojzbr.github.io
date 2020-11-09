@@ -5,10 +5,12 @@ import Landingpage from '../Landingpage/Landingpage';
 import About from '../About/About';
 import Portfolio from '../Portfolio/Portfolio';
 import Contact from '../Contact/Contact';
+import Modal from '../Modal/Modal';
 
 function App() {
   return (
     <div className={classes.scroll}>
+      <Modal />
       <Navbar />
       <Landingpage />
       <About />

@@ -4,7 +4,7 @@ import classes from './About.module.css';
 function About() {
   return (
     <div className={classes.background} id="about">
-      <h1>About me</h1>
+      <div className={classes.about}>About me</div>
       <div className={classes.text}>
         <div className={classes.paragraph}>
           I'm a self-taught frontend web developer from Gliwice, Poland. I know tiny bit of backend and I will surely explore it deeper in the nearest future to become a proficient fullstack developer.  

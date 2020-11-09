@@ -5,7 +5,7 @@ function Contact() {
   return (
     <div className={classes.background} id="contact">
       <div className={classes.text}>
-        Usually you can find me at the Silesian University of Technology or one of the local climbing gyms...<br/><br/>
+        Usually you can find me at Silesian University of Technology or one of the local climbing gyms...<br/><br/>
         ...or you can just catch me here:<br/><br/>
         
         <a href="https://linkedin.com/in/wojciech-zbrozek" target="_blanc" className={classes.link}>LinkedIn</a>

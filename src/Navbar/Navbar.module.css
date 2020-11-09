@@ -9,7 +9,7 @@
   justify-content: space-between;
   align-items: flex-end;
   background: peachpuff;
-  z-index: 100000;
+  z-index: 100;
 }
 
 a {
